@@ -1,4 +1,11 @@
-function mudar_conteudo_elemento() {
+function mudar_pr1(){
 
-  document.getElementById("h1").innerHTML = "Hello JavaScript!";
+    document.getElementById("pr1").style.color = "turquoise";
+
+}
+
+function mudar_pr2(){
+
+    document.getElementById("pr2").style.color = "coral";
+
 }
